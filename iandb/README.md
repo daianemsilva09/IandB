@@ -5,7 +5,7 @@
 
 ## Site aprendendo Inglês e a Bíblia ao mesmo tempo (site em desenvolvimento ainda) 
 
-![Site IandB](https://user-images.githubusercontent.com/61889741/93667839-3a967f00-fa5f-11ea-9e0f-965b7cf03afa.png)
+![Site IandB](https://user-images.githubusercontent.com/61889741/93667864-89441900-fa5f-11ea-88ea-8754176b7d77.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
